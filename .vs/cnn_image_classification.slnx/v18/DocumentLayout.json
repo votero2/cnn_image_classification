@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VladRepo\\DeepLearning\\cnn_image_classification\\cnn_image_classification\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D180DB5-02B0-440B-9B0C-8BBEAD7C4708}|cnn_image_classification\\cnn_image_classification.pyproj|C:\\VladRepo\\DeepLearning\\cnn_image_classification\\cnn_image_classification\\cnn_image_classification\\cnn_image_classification.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D180DB5-02B0-440B-9B0C-8BBEAD7C4708}|cnn_image_classification\\cnn_image_classification.pyproj|solutionrelative:cnn_image_classification\\cnn_image_classification.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cnn_image_classification.py",
+              "DocumentMoniker": "C:\\VladRepo\\DeepLearning\\cnn_image_classification\\cnn_image_classification\\cnn_image_classification\\cnn_image_classification.py",
+              "RelativeDocumentMoniker": "cnn_image_classification\\cnn_image_classification.py",
+              "ToolTip": "C:\\VladRepo\\DeepLearning\\cnn_image_classification\\cnn_image_classification\\cnn_image_classification\\cnn_image_classification.py",
+              "RelativeToolTip": "cnn_image_classification\\cnn_image_classification.py",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-29T00:48:14.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
